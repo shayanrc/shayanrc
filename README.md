@@ -1,4 +1,4 @@
-Battle tested data scientist with 5+ years of experience in Machine Learning and Data Science (8+ years of total IT
+Battle tested data scientist with 6 years of experience in Machine Learning and Data Science (9 years of total IT
 experience) and a proven track record of prototyping, building, and deploying machine learning solutions across a variety of
 industries including Pharma, Finance, and Manufacturing
 
