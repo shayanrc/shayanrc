@@ -13,7 +13,7 @@ Contact/Follow me on:
 - Email : shayan.roychoudhury@gmail.com
 - Blog : https://shayanrc.medium.com/
 
-- If you are the rare recruiter looking for data scientists / machine learning engineer on Github, please mention it in the email.
+- If you are the rare recruiter looking for data scientists / machine learning engineer and somehow came across me on Github, please mention it in the email :)
 
 <!---
 shayanrc/shayanrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
