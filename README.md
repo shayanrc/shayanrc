@@ -10,6 +10,7 @@ Contact/Follow me on:
 - LinkedIn : https://www.linkedin.com/in/shayan-roychoudhury/
 - Github : <-- You are here -->
 - Twitter : shayan_rc
+- Stack Overflow : https://stackoverflow.com/users/1562773/shayan-rc
 - Email : shayan.roychoudhury@gmail.com
 - Blog : https://shayanrc.medium.com/
 
