@@ -5,7 +5,7 @@ industries including Pharma, Finance, and Manufacturing
 Interested in projects which require:
 - NLP Deep Learning with Large Language Models. 
 - Computer Vision on Sattelite Imagery 
-- Reinforcement Learning projects
+- Reinforcement Learning
 
 Contact/Follow me on:
 - LinkedIn : https://www.linkedin.com/in/shayan-roychoudhury/
