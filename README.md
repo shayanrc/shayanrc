@@ -2,9 +2,10 @@ Full stack data scientist with 7 years of experience in Machine Learning and Dat
 experience) and a proven track record of prototyping, building, and deploying machine learning solutions across a variety of
 industries including Pharma, Finance, and Manufacturing
 
-- Interested in NLP projects which require deep learning. 
-- Currently learning more about IPFS, Blockchain, Git, Web 3.0, let's call 'em what they are: Merkle DAGs
-- Looking to collaborate on any AI/ML/deep learning/Data Science project which will contribute towards the war on COVID
+Interested in projects which require:
+- NLP Deep Learning with Large Language Models. 
+- Computer Vision on Sattelite Imagery 
+- Reinforcement Learning projects
 
 Contact/Follow me on:
 - LinkedIn : https://www.linkedin.com/in/shayan-roychoudhury/
