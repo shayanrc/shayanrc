@@ -3,19 +3,19 @@ experience) and a proven track record of prototyping, building, and deploying ma
 industries including Pharma, Finance, and Manufacturing
 
 Interested in projects which require:
-- NLP Deep Learning with Large Language Models. 
-- Computer Vision on Sattelite Imagery 
+- NLP/NLU with Large Language Models
+- Computer Vision on Sattelite / Medical Imagery
 - Reinforcement Learning
 
 Contact/Follow me on:
-- LinkedIn : https://www.linkedin.com/in/shayan-roychoudhury/
-- Github : <-- You are here -->
-- Twitter : shayan_rc
-- Stack Overflow : https://stackoverflow.com/users/1562773/shayan-rc
-- Email : shayan.roychoudhury@gmail.com
-- Blog : https://shayanrc.medium.com/
+- LinkedIn: https://www.linkedin.com/in/shayan-roychoudhury/
+- Github: [<-- You are here -->](https://github.com/shayanrc/shayanrc)
+- Twitter: shayan_rc
+- Stack Overflow: https://stackoverflow.com/users/1562773/shayan-rc
+- Email: shayan.roychoudhury @ gmail.com
+- Blog: https://shayanrc.medium.com/
 
-- If you are the rare recruiter looking for data scientists / machine learning engineer and somehow came across me on Github, please mention it in the email :)
+- If you are the rare recruiter looking for a data scientist/machine learning engineer and somehow came across me on Github, please mention it in the email :)
 
 <!---
 shayanrc/shayanrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
