@@ -1,4 +1,4 @@
-Full stack data scientist with 7 years of experience in Machine Learning and Data Science (10 years of total IT
+Full stack data scientist with 10 years of experience in Machine Learning and Data Science (12 years of total IT
 experience) and a proven track record of prototyping, building, and deploying machine learning solutions across a variety of
 industries including Pharma, Finance, and Manufacturing
 
